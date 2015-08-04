@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_marketplace'
-  s.version     = '3.0.0.beta'
+  s.version     = '3.0.1'
   s.summary     = 'Enable Spree to work as a Marketplace.'
   s.description = 'By extending Spree Drop Ship to enable supplier payments Spree works as a Marketplace.'
   s.required_ruby_version = '>= 2.0.0'
